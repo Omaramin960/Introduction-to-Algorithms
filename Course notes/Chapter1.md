@@ -8,5 +8,8 @@
     - Possible restrictions on items value
     - The architecture of the computer
     - Kind of storage devices being used
-- An algorithm said to be **correct**   
-    
+- An algorithm said to be **correct** if it halts the correct output for every input sequence
+- An algorithm said to be **incorrect** if it's not halting at all for some cases or halt with incorrect answer
+- Incorrect algorithms can be useful if we controlled the error rate. 
+- Data Structure is a way to store and organize data in order to facilitate access and modification
+- Not a single data structure works for all purposes    
