@@ -1,0 +1,11 @@
+# Section 1
+- Give a real-world example that requires sorting or a real-world example that requires computing a convex hull?
+    - An example of a data set that might need sorting is an online store's sale items by largest discount. An example of a convex hull that would need computing is a set of co-ordinates in which we want to find the shortest travel time to.
+- Other than speed, what other measures of efficiency might one use in a real-world setting?
+    - ram usage, power consumption, etc.
+- Select a data structure that you have seen previously, and discuss its strengths and limitations.
+    - a list is like an array except that it has no set size. This is great for smaller data sets but it takes up exponentially more space for larger data sets.
+- How are the shortest-path and traveling-salesman problems given above similar? How are they different?
+    - They are similar in the sense that they are trying to find the fastest path between locations, but different in that the traveling salesmen can only visit places once.
+- Come up with a real-world problem in which only the best solution will do. Then come up with one in which a solution that is “approximately” the best is good enough
+    - A real world problem in which only the best solution will do might be giving a vaccine to person suffering from a disease with a known cure. An approximately best solution would be giving a person with cancer chemo therapy because no vaccine exists.
